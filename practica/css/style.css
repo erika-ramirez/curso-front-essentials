@@ -1,0 +1,31 @@
+.menu{
+    background-color: black;
+    height: 70px;
+}
+
+.link-menu{
+    text-align: right;
+}
+
+.text-title{
+    color: white;
+    font:bold
+}
+
+.text-content{
+    color: gray;
+}
+
+.text-content-list{
+    color:rgb(46, 45, 45);
+}
+
+
+aside {
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    font-style: italic;
+    background-color: lightgray;
+  }
